@@ -11,8 +11,8 @@ To write a python program for creating Chat using TCP Sockets Links.
 ## PROGRAM 
 ## CLIENT: 
 ```
-Developed by: RIYA P L
-Reg no: 212223240141
+Developed by: Shashin prasad S
+Reg no: 212222230144
 import socket 
 s=socket.socket() 
 s.connect(('localhost',8000)) 
